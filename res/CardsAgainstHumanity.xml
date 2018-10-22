@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<cardDeck>
+	<blackCards>
+		<card answerPositions="1">
+			<part>How did I lose my virginity?</part>
+		</card>
+		<card answerPositions="1">
+			<part>Why can't I sleep at night?</part>
+		</card>
+		<card answerPositions="1">
+			<part>What's that smell?</part>
+		</card>
+		<card answerPositions="1 2">
+			<part>I got 99 problems but</part>
+			<part>ain't one.</part>
+		</card>
+	</blackCards>
+	<whiteCards>
+		<card>Being on fire</card>
+		<card>Racism</card>
+		<card>Old-people smell</card>
+		<card>A micropenis</card>
+		<card>Women in yogurt commercials</card>
+		<card>Classist undertones</card>
+		<card>Not giving a shit about the Third World</card>
+		<card>Inserting a mason jar into my anus</card>
+		<card>Court-ordered rehab.</card>
+		<card>A windmill full of corpses</card>
+		<card>The gays</card>
+		<card>An oversized lollipop</card>
+	</whiteCards>
+</cardDeck>
