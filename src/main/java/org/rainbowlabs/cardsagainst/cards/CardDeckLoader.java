@@ -1,4 +1,4 @@
-package de.cpelzer.cad.main;
+package org.rainbowlabs.cardsagainst.cards;
 
 import java.io.File;
 import java.io.IOException;
