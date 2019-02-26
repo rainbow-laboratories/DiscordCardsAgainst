@@ -1,6 +1,6 @@
 # DiscordCardsAgainstDowntime
 <p align="center">
-  <a href='https://jenkins.rainbowlabs.org/job/CardsAgainstDowntime/'><img src='https://jenkins.rainbowlabs.org/job/CardsAgainstDowntime/badge/icon'></a>
+  <a href='https://jenkins.rainbowlabs.org/job/CardsAgainstDowntime/'><img src='https://jenkins.rainbowlabs.org/buildStatus/icon?job=CardsAgainstDowntime'></a>
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/stoffel2107/DiscordCardsAgainst.svg">
   <img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/stoffel2107/DiscordCardsAgainst.svg">
   <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/stoffel2107/DiscordCardsAgainst.svg">
